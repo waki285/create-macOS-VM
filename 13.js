@@ -1,3 +1,4 @@
+#!/usr/bin/node
 const minimist = require("minimist");
 const childProcess = require("child_process");
 const config = require("./config.json");
