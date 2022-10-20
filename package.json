@@ -1,0 +1,29 @@
+{
+  "name": "create-macos-vm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "13.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waki285/create-macOS-VM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waki285/create-macOS-VM/issues"
+  },
+  "homepage": "https://github.com/waki285/create-macOS-VM#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.2"
+  },
+  "bin": {
+    "cmv13": "13.js"
+  }
+}
