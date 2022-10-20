@@ -2,7 +2,9 @@
   "osk": "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc",
   "disk": "ssd",
   "img13": "Ventura-full.img",
+  "img12": "Monterey-recovery.img",
   "diskCapacity": "64",
   "memory": "4096",
-  "isoDisk": "hdd"
+  "isoDisk": "hdd",
+  "cpu": "intel"
 }
