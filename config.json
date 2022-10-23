@@ -3,6 +3,7 @@
   "disk": "ssd",
   "img13": "Ventura-full.img",
   "img12": "Monterey-recovery.img",
+  "img10": "Mojave-recovery.img",
   "diskCapacity": "64",
   "memory": "4096",
   "isoDisk": "hdd",
